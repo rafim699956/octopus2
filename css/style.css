@@ -1,0 +1,416 @@
+* {
+        margin: 0;
+        padding: 0;
+}
+
+body {
+        font-family: "Plus Jakarta Sans", sans-serif;
+}
+
+a {
+        text-decoration: none;
+        display: inline-block;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+ol {
+        padding: 0;
+        margin: 0;
+}
+
+/* ===========================
+        common css end
+=============================*/
+/* ===========================
+         css start
+=============================*/
+/* ===========================
+        banner css start
+=============================*/
+.mt {
+        margin-top: -200px;
+}
+
+.banner_bg {
+        background: #051383;
+        padding: 70px 0 200px;
+}
+
+.banner_text h1 {
+        font-size: 80px;
+        font-weight: 800;
+        text-align: center;
+        line-height: 96px;
+        color: #FFFFFF;
+}
+
+.banner_text p {
+        color: #FFFFFF !important;
+        font-size: 30px;
+        font-weight: 500;
+        line-height: 36px;
+        text-align: center;
+}
+
+.banner_text a {
+        padding: 22px 42px;
+        border-radius: 12px;
+        background: #ED683E;
+        color: #FFFFFF;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 21.6px;
+        margin-top: 10px;
+}
+
+/* ===========================
+         banner css end
+=============================*/
+.main_menu {
+        height: 110px;
+        background: #FFFFFF;
+}
+
+.header_logo a img {
+        width: 231.76px;
+        height: 52px;
+}
+
+.main_nav ul li a {
+        color: #051383;
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 21.6px;
+        font-family: "Plus Jakarta Sans", sans-serif;
+}
+
+.main_btn {
+        background: #0745F0;
+        border-radius: 12px;
+        -webkit-border-radius: 12px;
+        -moz-border-radius: 12px;
+        -ms-border-radius: 12px;
+        -o-border-radius: 12px;
+        color: #FFFFFF;
+        font-size: 18px;
+        font-weight: 600;
+        line-height: 21.6px;
+        text-align: center;
+        font-family: "Plus Jakarta Sans", sans-serif;
+}
+
+/* ===========================
+         css end
+=============================*/
+/* ===========================
+       Blog  section start
+=============================*/
+#blog {
+        background: #FDFBF8;
+        padding: 50px 0;
+}
+
+.banner_text h2 {
+        color: #051383;
+        font-size: 44px;
+        font-weight: 700;
+        line-height: 52.8px;
+}
+
+.banner_text p {
+        color: #051383;
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 32px;
+}
+
+.banner_img img {
+        Width: 500px;
+
+}
+
+.banner_img2 img {
+        Width: 500px;
+
+
+}
+
+#blog2 {
+        background: #FFFFFF;
+}
+
+.banner_img3 img {
+        Width: 500px;
+
+
+}
+
+#blog3 {
+        background: #F5F2FB;
+}
+
+#blog4 {
+        background: #FFFFFF;
+}
+
+#blog5 {
+        background: #F4FBF2;
+}
+
+.banner_img1,
+.banner_img2,
+.banner_img3,
+.banner_img4,
+.banner_img5 {
+        padding: 50px;
+}
+
+#blog6 {
+        background: #FFFFFF;
+}
+
+#blog7 {
+        background: #F2FBFA;
+}
+
+
+/* ===========================
+       Blog  section end
+=============================*/
+
+#main_banner {
+        padding: 20px 0 50px;
+}
+
+.banner_img4 img {
+        width: 500px;
+}
+
+.banner_img5 img {
+        width: 500px;
+}
+
+.banner_img6 img {
+        width: 500px;
+}
+
+.banner_img7 img {
+        width: 500px;
+}
+
+.banner_img8 img {
+        width: 500px;
+}
+
+/* ===========================
+        about css start
+=============================*/
+#about {
+        background: #051383;
+        padding: 30px 0 270px;
+
+}
+
+#next_about {
+        padding: 30px 20px 30px;
+        margin-top: -250px;
+
+
+}
+
+.Background_custom {
+        background: #FFFFFF;
+}
+
+.about_text h2 {
+        font-size: 60px;
+        font-weight: 700;
+        line-height: 72px;
+        color: #FFFFFF;
+        padding-top: 20px;
+        text-align: center;
+}
+
+.item_text p {
+        font-size: 24px;
+        font-weight: 600;
+        line-height: 38.4px;
+        text-align: left;
+        color: #051383;
+}
+
+.about_item h4 {
+        font-size: 22px;
+        font-weight: 600;
+        line-height: 26.4px;
+        text-align: left;
+        padding-top: 20px;
+        color: #051383;
+}
+
+.about_item p {
+        color: #051383;
+        font-size: 20px;
+        font-style: italic;
+        font-weight: 500;
+        line-height: 24px;
+        text-align: left;
+        padding-top: 10px;
+        display: inline-block;
+        padding-right: 20px;
+}
+
+.about_images img {
+        width: 300px;
+        height: 300px;
+        border-radius: 16px;
+        -webkit-border-radius: 16px;
+        -moz-border-radius: 16px;
+        -ms-border-radius: 16px;
+        -o-border-radius: 16px;
+        border: 1px solid #EBEEF4;
+}
+
+.about_btn a {
+        padding: 19px 24px;
+        margin-top: 10px;
+        background: rgba(52, 97, 209, 0.1);
+        color: #3461D1;
+        text-align: right;
+        border-radius: 12px;
+        -webkit-border-radius: 12px;
+        -moz-border-radius: 12px;
+        -ms-border-radius: 12px;
+        -o-border-radius: 12px;
+}
+
+/* ===========================
+         about css end
+=============================*/
+/* ===========================
+         css start
+=============================*/
+.security_section {
+        background: #F5F5F5;
+        padding: 200px 0 70px;
+}
+
+.security_section {
+        width: 909px;
+        text-align: center;
+}
+
+.security_text h2 {
+        color: #051383 !important;
+        font-size: 52px;
+        font-weight: 700;
+        line-height: 62.4px;
+        text-align: center;
+}
+
+.security_text p {
+        color: #051383;
+        font-weight: 400px;
+        font-size: 20px;
+        line-height: 32px;
+        margin-bottom: 20px;
+}
+
+.security_text a {
+        background: #0745F0;
+        color: #FFFFFF;
+        padding: 23px 44px;
+        border-radius: 12px;
+        -webkit-border-radius: 12px;
+        -moz-border-radius: 12px;
+        -ms-border-radius: 12px;
+        -o-border-radius: 12px;
+        margin-bottom: 20px;
+}
+
+
+/* ===========================
+         css end
+=============================*/
+/* ===========================
+         css start
+=============================*/
+#footer {
+        padding: 30px 0 40px;
+        background: #010048;
+}
+
+.footer_logo img {
+        width: 183.21px;
+        height: 100px;
+}
+
+/* .social_icon li i {
+        list-style: none !important;
+        width: 19px !important;
+        height: 37px;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 37px;
+        text-align: center;
+        color: #FFFFFF;
+} */
+
+.footer_menu {
+        list-style: none;
+}
+
+.footer_menu li a {
+        color: #FFFFFF;
+        font-weight: 400;
+        line-height: 24px;
+        font-size: 15px;
+}
+
+.footer_copyright p {
+        color: #FFFFFF;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 22.4px;
+}
+
+.social_icon ul {
+        list-style: none;
+}
+
+.social_icon ul li i {
+        width: 19px;
+        font-weight: 400;
+        font-size: 16px;
+        text-align: center;
+        color: #FFFFFF;
+}
+
+/* ===========================
+         css end
+=============================*/
+/* ===========================
+         css start
+=============================*/
+/* ===========================
+         css end
+=============================*/
+/* ===========================
+         css start
+=============================*/
+/* ===========================
+         css end
+=============================*/
+/* ===========================
+         css start
+=============================*/
+/* ===========================
+         css end
+=============================*/
